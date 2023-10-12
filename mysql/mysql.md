@@ -241,7 +241,7 @@
 
 ##### 所有分了两个阶段，一开始把数据缓存到冷数据区，访问量到一定次数放到热数据区，这样就解决了这个问题
 
-![1693e86e2a3fffa3~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75](https://raw.githubusercontent.com/Badboy-liu/i_doc/main/mysql\1693e86e2a3fffa3~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75.webp)
+![lru](https://github.com/Badboy-liu/i_doc/blob/main/mysql/1693e86e2a3fffa3~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75.webp)
 
 
 
