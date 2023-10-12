@@ -87,7 +87,7 @@
 
 ##### 事务后的数据记录事务前的数据，后产生版本链，用于事务隔离查询
 
-![16a33e277a98dbec~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75 (1)](https://raw.githubusercontent.com/Badboy-liu/i_doc/main\mysql\16a33e277a98dbec~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75 (1).webp)
+![mvcc](https://github.com/Badboy-liu/i_doc/blob/main/mysql/1693e86e2a3fffa3~tplv-t2oaga2asx-jj-mark_1512_0_0_0_q75.webp)
 
 ##### 你当时事务id和事务隔离级别去查询版本链条中你可以读取到哪个
 
